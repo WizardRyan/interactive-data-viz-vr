@@ -1,6 +1,6 @@
 A solution to viewing data interactively in virtual reality
 
-https://youtu.be/ECVatIf20OA 
+See the demo here: https://youtu.be/ECVatIf20OA 
 
 The global warming and precipitation heatmap data was pulled from NASA, then UV-mapped onto a globe
 
